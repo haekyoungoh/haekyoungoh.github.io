@@ -10263,6 +10263,9 @@ body {
 body > .section {
   flex-grow: 1;
 }
+.breadcrumb a {
+  color: #fcee09;
+}
 @media screen and (min-width: 1288px) {
   ::-webkit-scrollbar {
     width: 8px;
@@ -11040,7 +11043,7 @@ footer.footer a {
   box-shadow: none, 0 0 0 rgba(0,0,0,0);
 }
 .pagination .pagination-link.is-current {
-  background: #02d7f2;
+  background: #f20530;
 }
 .post-navigation {
   color: #cdcdcd;
